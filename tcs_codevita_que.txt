@@ -1,0 +1,16 @@
+Round 1: The first Round was online Coding round, The duration of the coding Round was 6 Hours and we can give the test from our place. There were 6 coding questions in total. The difficulty level varied from easy to moderate. some of the questions were so simple that the brute force method worked for them and some questions were really tricky from topics such as graphs and trees. Even if you execute one code with all test case passed you would get an interview invite from TCS.
+
+Round 2: Round 2 was Interview Round, There were many panels. first there was Technical Round which was kind of combined Technical and Managerial Round. and this round consisted of questions from following topics :-
+
+First question was about my Project, what problems did You face while making the Project ?, What is USP of your Project and use of Machine learning in your project.
+There were question on DBMS such as define Primary Key, Foreign Key and made us write basic SQL queries.
+They asked to write basic pattern Printing Programs.
+They asked questions about how would you manage your Time and also maintain work life balance.
+Then There was HR Round and following questions were asked:-
+
+Tell me something about Yourself ?.
+Where would you see yourself, 5 years from Now ?.
+What are your Hobbies ?.
+Do you Have any problem in Relocation ?.
+Do you have any current Backlog ?.
+ 
